@@ -3,6 +3,7 @@ def check_multiple (number):
         return True
     else:
         return False
+    
 def check_password (input_string):
     if input_string == "Python123":
         return "access granted"
